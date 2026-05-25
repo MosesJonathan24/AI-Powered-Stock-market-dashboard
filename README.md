@@ -7,7 +7,7 @@
 
 A comprehensive, AI-powered stock market dashboard that combines advanced technical analysis, machine learning price predictions, and intelligent market insights in a beautiful, interactive interface.
 
-![Main Dashboard](screenshots/main_dashboard.jpg)
+![Main Dashboard](main_dashboard.jpg)
 
 ## ✨ Features
 
@@ -35,9 +35,9 @@ A comprehensive, AI-powered stock market dashboard that combines advanced techni
 - **Interactive Charts** - Zoom, pan, and explore data
 - **Organized Tabs** - Clean separation of different analysis types
 
-![Technical Analysis](screenshots/technical_analysis.jpg)
+![Technical Analysis](technical_analysis.jpg)
 
-![ML Predictions](screenshots/ml_predictions.jpg)
+![ML Predictions](ml_predictions.jpg)
 
 ## 📦 Dependencies
 
@@ -70,7 +70,7 @@ scikit-learn>=1.3.0
 - 🟡 **Yellow indicators**: Neutral/mixed signals
 - ⚠️ **Warning indicators**: Overbought/oversold conditions
 
-![Performance Metrics](screenshots/performance_metrics.jpg)
+![Performance Metrics](performance_metrics.jpg)
 
 ## 🧠 Machine Learning Model
 
@@ -88,7 +88,7 @@ Our AI uses a **Random Forest Regressor** trained on 30+ features including:
 - Feature importance analysis
 - Confidence metrics displayed
 
-![AI Analysis](screenshots/ai_analysis.jpg)
+![AI Analysis](ai_analysis.jpg)
 
 ## 📊 Technical Indicators
 
@@ -121,7 +121,7 @@ Our AI uses a **Random Forest Regressor** trained on 30+ features including:
 - Market behavior patterns
 - Professional chart analysis
 
-![Company Info](screenshots/company_info.jpg)
+![Company Info](company_info.jpg)
 
 ## ⚠️ Disclaimer
 
