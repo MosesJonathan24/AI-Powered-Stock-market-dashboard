@@ -138,14 +138,13 @@ Our AI uses a **Random Forest Regressor** trained on 30+ features including:
 ```
 ├── stock_dashboard.py      # Main application
 ├── requirements.txt        # Dependencies
-├── README.md              # Documentation
-└── screenshots/           # UI screenshots
-    ├── main_dashboard.jpg
-    ├── technical_analysis.jpg
-    ├── ml_predictions.jpg
-    ├── performance_metrics.jpg
-    ├── ai_analysis.jpg
-    └── company_info.jpg
+├── README.md               # Documentation
+├── main_dashboard.jpg
+├── technical_analysis.jpg
+├── ml_predictions.jpg
+├── performance_metrics.jpg
+├── ai_analysis.jpg
+└── company_info.jpg
 ```
 
 ## 🌟 Acknowledgments
